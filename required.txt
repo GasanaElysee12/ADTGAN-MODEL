@@ -1,0 +1,6 @@
+install numpy
+install matplotlib.pyplot
+install torch 
+install cartopy 
+install pytorch-msssim
+install xarray
