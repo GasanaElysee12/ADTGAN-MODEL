@@ -1,0 +1,12 @@
+The link toward the dataset is:
+
+Please download the dataset from the link below and process as mentioned in methodology.
+
+https://data.marine.copernicus.eu/product/SEALEVEL_EUR_PHY_L4_MY_008_068/description
+
+Time frame: The time frame for data used spans from 7 May 2001 to 5 July 2021.
+
+Location:(Mediterranean Sea)
+
+    Longitude: -5.5   to 37 degree East
+    Latitude:   29.5  to 47 degree North
